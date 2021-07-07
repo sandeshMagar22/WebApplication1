@@ -132,7 +132,7 @@
       <LastGenOutput>ICMSDatabaseModel.cs</LastGenOutput>
     </Content>
     <Content Include="Default.aspx" />
-    <Content Include="Employeeold.aspx" />
+    <Content Include="Employee_OLD.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -240,12 +240,12 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Employeeold.aspx.cs">
-      <DependentUpon>Employeeold.aspx</DependentUpon>
+    <Compile Include="Employee_OLD.aspx.cs">
+      <DependentUpon>Employee_OLD.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Employeeold.aspx.designer.cs">
-      <DependentUpon>Employeeold.aspx</DependentUpon>
+    <Compile Include="Employee_OLD.aspx.designer.cs">
+      <DependentUpon>Employee_OLD.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

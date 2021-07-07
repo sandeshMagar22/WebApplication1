@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace WebApplication1
 {
-    public partial class Employee : System.Web.UI.Page
+    public partial class Employee_OLD : System.Web.UI.Page
     {
         public string Gender { get; internal set; }
 

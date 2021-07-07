@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using WebApplication1.Repository;
+using WebApplication1.DAL;
 
 namespace WebApplication1.BLL
 {

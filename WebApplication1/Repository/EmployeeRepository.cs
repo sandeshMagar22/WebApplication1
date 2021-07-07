@@ -33,7 +33,7 @@ namespace WebApplication1.Repository
 
         public Employee GetById(int EmployeeID)
         {
-            return _context.Employee.Find(EmployeeID);
+            return _context.Employees.Find(EmployeeID);
         }
         public void Insert(Employee employee)
         {
